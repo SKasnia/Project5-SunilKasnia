@@ -1,6 +1,10 @@
 
+body
+{
+   background-image: url('./motivational1.jpg');
+}
 div{
-  background-image: url('.//motivational1.jpg');
+ 
   margin: auto;
   width: 50%;
   padding: 10px;
