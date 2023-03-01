@@ -1,15 +1,16 @@
 body{
-  background-image: url('./motivational1.jpg');
+  background-image: url('motivational1.jpg');
   
   /* size: 100%; */
 }
 
-h2{
-  color: white;
+h1{
+  color: GREEN;
 }
 p{
   color: white;
   font-size: 20px;
+  background-color:Peach;
 }
 ul {
   list-style-type: none;
