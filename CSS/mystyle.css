@@ -22,7 +22,7 @@ p{
   
   
 }
-ul {
+.nav-bar {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -30,13 +30,14 @@ ul {
   background-color: #333;
   border-color: palevioletred;
   border-style:hidden;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+  
 }
 
-li {
-  float: left;
-}
 
-li a {
+ a {
   display: block;
   color: white;
   text-align: center;
@@ -44,11 +45,11 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+ a:hover {
   background-color: #111;
 }
 
-li a:active{
+ a:active{
   background-color: brown;
 }
 
@@ -57,6 +58,10 @@ footer
   background-color:beige;
   border: orangered;
   border-style: double;
+  margin-bottom:10px;
+   margin-left: auto;
+   margin-right: auto;
+  width: 50%;
 }
 
 
