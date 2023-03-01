@@ -1,25 +1,24 @@
-html
-{
-  float:center;
-}
+
 body{
   background-image: url('motivational1.jpg');
   margin-top:20px;
   margin-bottom:20px;
   margin-left:20px;
   margin-right:20px;
-  
+  float:center;
   /* size: 100%; */
 }
 
 h1{
   color: GREEN;
+ 
 
 }
 p{
   color: white;
   font-size: 20px;
   background-color:teal;
+  
   
 }
 ul {
@@ -82,4 +81,3 @@ footer
   height: 500px;
   width: 400px;
 }
-/* html{background-image: url('./motivational1.jpg');} */
