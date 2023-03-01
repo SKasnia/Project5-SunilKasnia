@@ -1,1 +1,74 @@
+body{
+  background-image: url('./motivational1.jpg');
+  
+  /* size: 100%; */
+}
 
+h2{
+  color: white;
+}
+p{
+  color: white;
+  font-size: 20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  border-color: palevioletred;
+  border-style:hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 40px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+li a:active{
+  background-color: brown;
+}
+
+footer
+{
+  background-color:beige;
+  border: orangered;
+  border-style: double;
+}
+
+
+.personal-photo
+{
+  width:400px;
+  height:500px;
+  border: orangered;
+  border-style: double;
+}
+
+.heading
+{
+  text-align: center;
+  background-image: url('./sun.jpg');
+  background-size: 100%;
+  color: white;
+  border: orangered;
+  border-style: double;
+}
+.side-img
+{
+  height: 500px;
+  width: 400px;
+}
+/* html{background-image: url('./motivational1.jpg');} */
