@@ -15,6 +15,10 @@ h1{
  
 
 }
+ul li
+{
+   float:right;
+}
 p{
   color: white;
   font-size: 20px;
@@ -60,7 +64,7 @@ footer
   border: orangered;
   border-style: double;
   margin-bottom:10px;
-  width: 50%;
+ 
 }
 
 
