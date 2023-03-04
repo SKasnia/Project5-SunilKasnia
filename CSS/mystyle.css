@@ -1,0 +1,91 @@
+body
+{
+   background-image: url('motivational1.jpg');
+}
+div{
+ 
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  float:center;
+}
+
+h1{
+  color: GREEN;
+ 
+
+}
+ul li
+{
+   float:right;
+}
+p{
+  color: white;
+  font-size: 20px;
+  background-color:teal;
+  
+  
+}
+.nav-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  border-color: palevioletred;
+  border-style:hidden;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+   float:right;
+  
+}
+
+
+ a {
+  color: white;
+  padding: 20px 40px;
+  text-decoration: none;
+}
+
+ a:hover {
+  background-color: #111;
+}
+
+ a:active{
+  background-color: brown;
+}
+
+footer
+{
+  background-color:beige;
+  border: orangered;
+  border-style: double;
+  margin-bottom:10px;
+ 
+}
+
+
+.heading
+{
+  text-align: center;
+  background-image: url('./sun.jpg');
+  background-size: 100%;
+  color: white;
+  border: orangered;
+  border-style: double;
+}
+.side-img
+{
+  height: 500px;
+  width: 400px;
+}
+.grid
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 5px;
+  gap: 10px;
+  border-width: 2px;
+  text-indent: initial;
+}
