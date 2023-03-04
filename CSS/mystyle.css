@@ -89,3 +89,12 @@ footer
   height: 500px;
   width: 400px;
 }
+.grid
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 5px;
+  gap: 10px;
+  border-width: 2px;
+  text-indent: initial;
+}
